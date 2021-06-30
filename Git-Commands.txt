@@ -1,0 +1,14 @@
+Git Commands : 
+
+1) git init : it intialized the repository as a Git Repository
+
+There are three steps in Git repository
+1) wroking directory
+2) staging area
+3) git directory(repository)
+
+If we want to commit any file then we have to take this file in staging area
+
+working --> stage --> git repository
+
+2) git add .  :  All files were taken to staging area
