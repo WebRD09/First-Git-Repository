@@ -11,4 +11,15 @@ If we want to commit any file then we have to take this file in staging area
 
 working --> stage --> git repository
 
-2) git add .  :  All files were taken to staging area
+2) git add .  :  All files were taken to staging area ( after running this command  we can commit )
+
+3) git commit -m "Give Some name to changes" : commits the file
+
+4) git config  --global user.name  "name" : you can give your name when you are doing changes in file
+
+5) git config  --global user.email  "email" : you can give your email when you are doing changes in file
+
+6) git log : you can see all the changes done in  git repository
+
+
+
