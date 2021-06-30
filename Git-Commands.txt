@@ -28,6 +28,11 @@ working --> stage --> git repository
 
 --> If we want to push or pull our code from GitHub then  we have to make a SSH key for it on github
 
+--------------------------------------------------------------------------------------------------------------
+Push : git push -u origin master
+
+Pull : git pull origin master
+
 
 
 
