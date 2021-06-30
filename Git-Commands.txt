@@ -22,4 +22,12 @@ working --> stage --> git repository
 6) git log : you can see all the changes done in  git repository
 
 
+--------------------------------------------------------------------------------------------------------------
+
+--> origin means where we push or pull our code
+
+--> If we want to push or pull our code from GitHub then  we have to make a SSH key for it on github
+
+
+
 
