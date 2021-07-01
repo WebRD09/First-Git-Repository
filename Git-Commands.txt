@@ -75,3 +75,13 @@ git branch -d BRANCHNAME
 
 --> To delete branch from GitHub
 git push origin --delete BRANCHNAME
+
+
+
+======> Hosting of Website <=======
+1) create new repository
+2) upload all files by drag&drop
+3) commit all file
+4) get ssh url and make git repository in your device=>folder
+5) choose valid branch from setting and choose a theme
+6) get url
