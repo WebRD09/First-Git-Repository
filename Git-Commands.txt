@@ -67,4 +67,6 @@ git branch BRANCHNAME
 --> To swith into another branch
 git checkout BRANCHNAME
 
+--> To merge branches
+git merge BRANCHNAME
 
