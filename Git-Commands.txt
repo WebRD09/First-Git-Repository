@@ -33,6 +33,12 @@ Push : git push -u origin master
 
 Pull : git pull origin master
 
+---------------------------------------------------------------------------------------------------
+
+If we have done some changes in file and not commited yet, after some time we want to see that what changes we have made the use
+
+git diff  "Filename"
+
 
 
 
