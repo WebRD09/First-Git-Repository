@@ -35,9 +35,17 @@ Pull : git pull origin master
 
 ---------------------------------------------------------------------------------------------------
 
-If we have done some changes in file and not commited yet, after some time we want to see that what changes we have made the use
+--> If we have done some changes in file and not commited yet, after some time we want to see that what changes we have made the use
 
 git diff  "Filename"
+
+--> If we want to remove al; chages in staged file before commit 
+
+Take it to the working directory
+git reset "Filename"
+
+Remove changes
+git checkout "Filename"
 
 
 
