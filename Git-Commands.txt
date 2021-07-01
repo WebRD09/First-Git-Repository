@@ -70,3 +70,8 @@ git checkout BRANCHNAME
 --> To merge branches
 git merge BRANCHNAME
 
+--> To delete branch from device
+git branch -d BRANCHNAME
+
+--> To delete branch from GitHub
+git push origin --delete BRANCHNAME
