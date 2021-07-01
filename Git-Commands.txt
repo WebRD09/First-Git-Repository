@@ -56,4 +56,15 @@ git clone "url"
 
 ***This changes is done in Git Hub***
 
+--> Branching
+
+--> To see all branches
+git branch
+
+--> To create a new Branch
+git branch BRANCHNAME
+
+--> To swith into another branch
+git checkout BRANCHNAME
+
 

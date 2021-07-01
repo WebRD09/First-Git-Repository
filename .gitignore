@@ -1,0 +1,4 @@
+write the name of File that you want to ignore when you are pushing this repository on github
+
+*.py
+*.php
