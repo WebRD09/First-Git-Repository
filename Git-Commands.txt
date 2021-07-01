@@ -48,5 +48,12 @@ Remove changes
 git checkout "Filename"
 
 
+--> If we want to see all directories in our git repository then use
+ls -la
+
+--> If we want to make a clone from github then use
+git clone "url"
+
+
 
 
